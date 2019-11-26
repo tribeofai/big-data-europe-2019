@@ -1,6 +1,7 @@
 # Workshop | Introduction to Deep Learning with Tensorflow 2.0
 
 Link: https://www.bigdataconference.lt/deep-learning-with-tensorflow/
+Presentation: https://docs.google.com/presentation/d/1t8zdb8tLotL8LbWroLPJi4RcnyOwuWLRUwdA4a5FE4g/edit?usp=sharing
 
 ## Abstract
 
